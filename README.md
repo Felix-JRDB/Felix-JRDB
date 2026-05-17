@@ -94,18 +94,20 @@ That progression is still the core of how I work: measured, technical, and produ
 - Documenting projects in a more rigorous engineering format
 - Developing a technical portfolio that reflects real product work
 
-## GitHub stats
+## GitHub
 
-<table>
-	<tr>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=Felix-JRDB&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
-		</td>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-JRDB&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
-		</td>
-	</tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Felix-JRDB?label=Followers&style=flat-square&color=0f172a" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Felix-JRDB?style=flat-square&color=0f172a" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-count/Felix-JRDB?style=flat-square&color=0f172a" alt="Repositories" />
+  <img src="https://img.shields.io/github/languages/top/Felix-JRDB?style=flat-square&color=0f172a" alt="Top language" />
+  <img src="https://img.shields.io/github/issues/Felix-JRDB?style=flat-square&color=0f172a" alt="Open issues" />
+</p>
+
+<!--
+If you prefer the compact stats cards from `github-readme-stats`, re-enable these lines (service: github-readme-stats.vercel.app).
+They sometimes experience availability issues; the badges above use Shields.io as a reliable fallback.
+-->
 
 ## Contact
 
