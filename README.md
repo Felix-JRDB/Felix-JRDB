@@ -99,9 +99,6 @@ That progression is still the core of how I work: measured, technical, and produ
 <p align="left">
   <img src="https://img.shields.io/github/followers/Felix-JRDB?label=Followers&style=flat-square&color=0f172a" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Felix-JRDB?style=flat-square&color=0f172a" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-count/Felix-JRDB?style=flat-square&color=0f172a" alt="Repositories" />
-  <img src="https://img.shields.io/github/languages/top/Felix-JRDB?style=flat-square&color=0f172a" alt="Top language" />
-  <img src="https://img.shields.io/github/issues/Felix-JRDB?style=flat-square&color=0f172a" alt="Open issues" />
 </p>
 
 <!--
