@@ -1,0 +1,36 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="220" y1="52" x2="1320" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <circle cx="1325" cy="85" r="210" fill="url(#accent)"/>
+  <circle cx="265" cy="360" r="155" fill="#1E293B" fill-opacity="0.65"/>
+
+  <g stroke="#334155" stroke-width="2" opacity="0.75">
+    <path d="M140 110H830"/>
+    <path d="M140 150H680"/>
+    <path d="M140 190H740"/>
+    <path d="M140 230H620"/>
+    <path d="M140 270H760"/>
+  </g>
+
+  <g fill="#E2E8F0" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="140" y="128" font-size="56" font-weight="700">Félix Jeanrichard</text>
+    <text x="140" y="180" font-size="30" font-weight="500" fill="#CBD5E1">Embedded Systems • PCB Design • Product Hardware</text>
+    <text x="140" y="236" font-size="24" font-weight="400" fill="#94A3B8">Designing robust embedded products from prototype to real-world system.</text>
+  </g>
+
+  <g fill="#22D3EE" opacity="0.9">
+    <rect x="1100" y="230" width="260" height="8" rx="4"/>
+    <rect x="1100" y="254" width="210" height="8" rx="4"/>
+    <rect x="1100" y="278" width="180" height="8" rx="4"/>
+  </g>
+</svg>
