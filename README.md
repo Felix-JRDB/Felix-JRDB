@@ -1,11 +1,5 @@
-# Félix Jeanrichard
-
 <p align="center">
   <img src="./assets/profile-banner.svg" alt="Félix Jeanrichard — Embedded Systems & Product Hardware" width="100%" />
-</p>
-
-<p align="center">
-  Embedded systems engineer · PCB designer · hardware prototyper
 </p>
 
 <p align="center">
